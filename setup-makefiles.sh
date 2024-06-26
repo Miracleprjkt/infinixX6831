@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=FULL-64-ARMV82
+DEVICE=X6831
 VENDOR=infinix
 
 # Load extract_utils and do some sanity checks
